@@ -1,0 +1,13 @@
+# MPLAB X generated output
+**/build/
+**/dist/
+**/debug/
+**/nbproject/private/
+**/nbproject/Makefile-local-*.mk
+**/nbproject/Package-*.bash
+
+# IDE / OS files
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
